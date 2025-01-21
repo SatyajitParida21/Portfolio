@@ -29,3 +29,8 @@ Handles dynamic behavior like menu toggles, form validation, and animations.
 Visual Studio Code: For writing and managing code.
 Browser Developer Tools: For testing and debugging responsiveness and functionality.
 
+
+CodSoft has provided an environment where learning and growth are prioritized. The mentorship, resources, and feedback I received throughout this internship have been invaluable. By working on real-world tasks, I gained insights into the workflow of web development projects, the importance of meeting deadlines, and maintaining high-quality standards.
+
+
+
