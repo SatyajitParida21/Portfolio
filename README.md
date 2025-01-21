@@ -32,5 +32,22 @@ Browser Developer Tools: For testing and debugging responsiveness and functional
 
 CodSoft has provided an environment where learning and growth are prioritized. The mentorship, resources, and feedback I received throughout this internship have been invaluable. By working on real-world tasks, I gained insights into the workflow of web development projects, the importance of meeting deadlines, and maintaining high-quality standards.
 
+#output
+![Image](https://github.com/user-attachments/assets/ad20575c-a388-4963-8f33-01deac76595d)
+
+![Image](https://github.com/user-attachments/assets/be28dc20-0cb1-4c06-9ae8-b32e48d70dfd)
+
+![Image](https://github.com/user-attachments/assets/802a8fbf-d980-4181-8200-f271671ae583)
+
+![Image](https://github.com/user-attachments/assets/9944511b-8e1f-4429-b961-60865ee682a0)
+
+![Image](https://github.com/user-attachments/assets/22c92a8f-894f-453e-a1ab-9d19783779f6)
+
+![Image](https://github.com/user-attachments/assets/eb03c59d-5b5b-4eec-98aa-2bbe203f8c53)
+
+
+
+
+
 
 
